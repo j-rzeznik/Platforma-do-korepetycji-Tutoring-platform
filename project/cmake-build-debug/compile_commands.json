@@ -1,0 +1,97 @@
+[
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/Library.dir/src/model/Uczen.cpp.o -c /mnt/d/Korepetycje/project/library/src/model/Uczen.cpp",
+  "file": "/mnt/d/Korepetycje/project/library/src/model/Uczen.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/Library.dir/src/repositories/ZajeciaRepozytorium.cpp.o -c /mnt/d/Korepetycje/project/library/src/repositories/ZajeciaRepozytorium.cpp",
+  "file": "/mnt/d/Korepetycje/project/library/src/repositories/ZajeciaRepozytorium.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/Library.dir/src/model/Jezyki.cpp.o -c /mnt/d/Korepetycje/project/library/src/model/Jezyki.cpp",
+  "file": "/mnt/d/Korepetycje/project/library/src/model/Jezyki.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/Library.dir/src/model/PozostalePrzedmioty.cpp.o -c /mnt/d/Korepetycje/project/library/src/model/PozostalePrzedmioty.cpp",
+  "file": "/mnt/d/Korepetycje/project/library/src/model/PozostalePrzedmioty.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/Library.dir/src/model/Przedmiot.cpp.o -c /mnt/d/Korepetycje/project/library/src/model/Przedmiot.cpp",
+  "file": "/mnt/d/Korepetycje/project/library/src/model/Przedmiot.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/Library.dir/src/model/Zajecia.cpp.o -c /mnt/d/Korepetycje/project/library/src/model/Zajecia.cpp",
+  "file": "/mnt/d/Korepetycje/project/library/src/model/Zajecia.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/Library.dir/src/repositories/UczenRepozytorium.cpp.o -c /mnt/d/Korepetycje/project/library/src/repositories/UczenRepozytorium.cpp",
+  "file": "/mnt/d/Korepetycje/project/library/src/repositories/UczenRepozytorium.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/Library.dir/__/program/src/main.cpp.o -c /mnt/d/Korepetycje/project/program/src/main.cpp",
+  "file": "/mnt/d/Korepetycje/project/program/src/main.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/Library.dir/src/managers/ZarzadcaUczniow.cpp.o -c /mnt/d/Korepetycje/project/library/src/managers/ZarzadcaUczniow.cpp",
+  "file": "/mnt/d/Korepetycje/project/library/src/managers/ZarzadcaUczniow.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++  -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/Library.dir/src/managers/ZarzadcaZajec.cpp.o -c /mnt/d/Korepetycje/project/library/src/managers/ZarzadcaZajec.cpp",
+  "file": "/mnt/d/Korepetycje/project/library/src/managers/ZarzadcaZajec.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/LibraryTester.dir/test/master.cpp.o -c /mnt/d/Korepetycje/project/library/test/master.cpp",
+  "file": "/mnt/d/Korepetycje/project/library/test/master.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/LibraryTester.dir/test/ZajeciaTest.cpp.o -c /mnt/d/Korepetycje/project/library/test/ZajeciaTest.cpp",
+  "file": "/mnt/d/Korepetycje/project/library/test/ZajeciaTest.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/LibraryTester.dir/test/PrzedmiotTest.cpp.o -c /mnt/d/Korepetycje/project/library/test/PrzedmiotTest.cpp",
+  "file": "/mnt/d/Korepetycje/project/library/test/PrzedmiotTest.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/LibraryTester.dir/test/UczenTest.cpp.o -c /mnt/d/Korepetycje/project/library/test/UczenTest.cpp",
+  "file": "/mnt/d/Korepetycje/project/library/test/UczenTest.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/LibraryTester.dir/test/RepozytoriumUczniaTest.cpp.o -c /mnt/d/Korepetycje/project/library/test/RepozytoriumUczniaTest.cpp",
+  "file": "/mnt/d/Korepetycje/project/library/test/RepozytoriumUczniaTest.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/LibraryTester.dir/test/ZarzadcaUczniowTest.cpp.o -c /mnt/d/Korepetycje/project/library/test/ZarzadcaUczniowTest.cpp",
+  "file": "/mnt/d/Korepetycje/project/library/test/ZarzadcaUczniowTest.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/LibraryTester.dir/test/ZarzadcaZajecTest.cpp.o -c /mnt/d/Korepetycje/project/library/test/ZarzadcaZajecTest.cpp",
+  "file": "/mnt/d/Korepetycje/project/library/test/ZarzadcaZajecTest.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/library",
+  "command": "/usr/bin/g++ -DBOOST_ALL_NO_LIB -DBOOST_UNIT_TEST_FRAMEWORK_DYN_LINK -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/LibraryTester.dir/test/RepozytoriumZajecTest.cpp.o -c /mnt/d/Korepetycje/project/library/test/RepozytoriumZajecTest.cpp",
+  "file": "/mnt/d/Korepetycje/project/library/test/RepozytoriumZajecTest.cpp"
+},
+{
+  "directory": "/mnt/d/Korepetycje/project/cmake-build-debug/program",
+  "command": "/usr/bin/g++  -I/mnt/d/Korepetycje/project/program/include -I/mnt/d/Korepetycje/project/library/include  -Wall -Wextra -Werror -Wall -Wextra -Wpedantic -g3 -gdwarf-4 -fdiagnostics-color=always -std=gnu++17 -o CMakeFiles/Program.dir/src/main.cpp.o -c /mnt/d/Korepetycje/project/program/src/main.cpp",
+  "file": "/mnt/d/Korepetycje/project/program/src/main.cpp"
+}
+]
